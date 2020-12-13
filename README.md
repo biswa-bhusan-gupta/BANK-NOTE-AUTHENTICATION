@@ -1,3 +1,3 @@
-# Bank_Note_Authentication
+# BANK NOTE AUTHENTICATION
 
 ## Link: https://bank-note-auth-app.herokuapp.com/
